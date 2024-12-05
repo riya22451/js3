@@ -21,3 +21,7 @@ const myFunction=function(){
     console.log("hello world")
 }
 console.log(typeof(heros))
+//************************************************************************************************ 
+//primitive(stack),heap(non-primitive)
+//stack copy deta hai
+//heap original value ka refernce deta hai
